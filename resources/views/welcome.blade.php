@@ -88,6 +88,7 @@
   <img class="img-responsive" src="/images/viv2.jpg" alt="Chania" width="320" height="360"> 
 
 
+
                 <div class="links">
                     <a href="/aboutus">About Us</a>
                     <a href="/poems">Poems</a>
